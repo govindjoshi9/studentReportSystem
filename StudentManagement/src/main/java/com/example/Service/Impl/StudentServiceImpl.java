@@ -4,9 +4,9 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.nitin.Entity.Students;
-import com.nitin.Repository.StudentRepository;
-import com.nitin.Service.StudentService;
+import com.example.Entity.Students;
+import com.example.Repository.StudentRepository;
+import com.example.Service.StudentService;
 
 @Service
 public class StudentServiceImpl implements StudentService {

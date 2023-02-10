@@ -5,8 +5,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.nitin.Entity.Students;
-import com.nitin.Repository.StudentRepository;
+import com.example.Entity.Students;
+import com.example.Repository.StudentRepository;
 
 @SpringBootApplication
 public class StudentManagementApplication implements CommandLineRunner {

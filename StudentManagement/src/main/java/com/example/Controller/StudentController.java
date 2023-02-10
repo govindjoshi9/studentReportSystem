@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.nitin.Entity.Students;
-import com.nitin.Repository.StudentRepository;
-import com.nitin.Service.StudentService;
+import com.example.Entity.Students;
+import com.example.Repository.StudentRepository;
+import com.example.Service.StudentService;
 
 
 

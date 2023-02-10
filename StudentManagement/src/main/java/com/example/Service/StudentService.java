@@ -2,7 +2,7 @@ package com.example.Service;
 
 import java.util.List;
 
-import com.nitin.Entity.Students;
+import com.example.Entity.Students;
 
 public interface StudentService {
 	List<Students> getAllStudents();
